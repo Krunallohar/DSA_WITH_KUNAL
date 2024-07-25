@@ -40,6 +40,26 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Timepass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Krunal.Timepass" />
+      <module name="DSA_WITH_KUNAL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Krunal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Timepass" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 3" />
+    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 2">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_07/Switch_case.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +20,10 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "other",
+    "onboarding.tips.debug.path": "D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Reverse_integer">
+}]]></component>
+  <component name="RunManager" selected="Application.Switch_case">
     <configuration name="Case_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Case_check" />
       <module name="DSAWITHKUNAL" />
@@ -79,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Largest_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture6.Largest_number" />
+    <configuration name="Reverse_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture6.Reverse_integer" />
       <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture6.Reverse_integer" />
+    <configuration name="Switch_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture_07.Switch_case" />
       <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture6.*" />
+          <option name="PATTERN" value="Lecture_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch_case" />
         <item itemvalue="Application.Reverse_integer" />
         <item itemvalue="Application.Counting_Occurence" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Case_check" />
-        <item itemvalue="Application.Largest_number" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +212,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721992985702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 3">
+      <option name="closed" value="true" />
+      <created>1721993257811</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721993257811</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Day 2">
+      <option name="closed" value="true" />
+      <created>1721993424833</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721993424833</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day 2">
+      <option name="closed" value="true" />
+      <created>1721993511151</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721993511151</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,9 +264,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
-    <MESSAGE value="Day 2" />
     <MESSAGE value="Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 3" />
+    <MESSAGE value="Day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

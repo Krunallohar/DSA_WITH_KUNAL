@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 2">
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Case_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Counting_Occurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Largest_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/Reverse_integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Krunal/Timepass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Krunal/Demo.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2jizJC8H7aQ5WezW3VHD48UOUZM" />
@@ -35,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Reverse_integer">
     <configuration name="Case_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Case_check" />
@@ -152,7 +148,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721886138943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 3">
+      <option name="closed" value="true" />
+      <created>1721991424381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721991424381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day 3">
+      <option name="closed" value="true" />
+      <created>1721991507991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721991507991</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 3">
+      <option name="closed" value="true" />
+      <created>1721991684814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721991684814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +180,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -169,7 +201,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
     <MESSAGE value="Day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2" />
+    <MESSAGE value="Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

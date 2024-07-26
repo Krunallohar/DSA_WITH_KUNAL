@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 3" />
+    <list default="true" id="3a87a2cd-a0e6-4560-9289-85d002ad8e55" name="Changes" comment="Day 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture6/Reverse_integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture6/Reverse_integer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Coding/JAVA/DSA_WITH_KUNAL/IntelliJ/DSA_WITH_KUNAL/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Reverse_integer">
     <configuration name="Case_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Case_check" />
-      <module name="DSA_WITH_KUNAL" />
+      <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture6.*" />
@@ -55,7 +58,7 @@
     </configuration>
     <configuration name="Counting_Occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Counting_Occurence" />
-      <module name="DSA_WITH_KUNAL" />
+      <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture6.*" />
@@ -68,7 +71,7 @@
     </configuration>
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Fibonacci" />
-      <module name="DSA_WITH_KUNAL" />
+      <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture6.*" />
@@ -81,7 +84,7 @@
     </configuration>
     <configuration name="Largest_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Largest_number" />
-      <module name="DSA_WITH_KUNAL" />
+      <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture6.*" />
@@ -94,13 +97,26 @@
     </configuration>
     <configuration name="Reverse_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecture6.Reverse_integer" />
-      <module name="DSA_WITH_KUNAL" />
+      <module name="DSAWITHKUNAL" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lecture6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DSAWITHKUNAL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DSAWITHKUNAL" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

@@ -8,7 +8,7 @@ public class Reverse_integer {
         while(n>0){
             ans = ans * 10 + n%10;
 
-            n = n/100;
+            n = n/10;
         }
         System.out.println(ans);
     }

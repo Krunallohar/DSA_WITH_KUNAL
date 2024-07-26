@@ -11,5 +11,6 @@ public class Reverse_integer {
             n = n/10;
         }
         System.out.println(ans);
+        System
     }
 }

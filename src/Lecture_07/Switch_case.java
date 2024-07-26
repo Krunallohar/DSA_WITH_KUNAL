@@ -31,6 +31,7 @@ public class Switch_case {
                 } break;
             default:
                 System.out.println("Enter valid EmpID");
+                break;
 
         }
     }
